@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Component.Model.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Component_Model_br_com_maplink_services_RouteProximity" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://services.maplink.com.br/webservices/v1.1/routeproximity/routeproximity.asmx</Value>
+    </Setting>
+    <Setting Name="Component_Model_br_com_maplink_servicesV3_AddressFinder" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://services.maplink.com.br/webservices/v3.1/AddressFinder/AddressFinder.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
