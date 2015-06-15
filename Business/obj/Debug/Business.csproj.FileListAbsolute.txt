@@ -1,0 +1,8 @@
+C:\Material pesquisa\Desafio\DesafioDev\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Material pesquisa\Desafio\DesafioDev\Business\bin\Debug\Business.dll.config
+C:\Material pesquisa\Desafio\DesafioDev\Business\bin\Debug\Business.dll
+C:\Material pesquisa\Desafio\DesafioDev\Business\bin\Debug\Business.pdb
+C:\Material pesquisa\Desafio\DesafioDev\Business\bin\Debug\Entity.dll
+C:\Material pesquisa\Desafio\DesafioDev\Business\bin\Debug\Entity.pdb
+C:\Material pesquisa\Desafio\DesafioDev\Business\obj\Debug\Business.dll
+C:\Material pesquisa\Desafio\DesafioDev\Business\obj\Debug\Business.pdb
